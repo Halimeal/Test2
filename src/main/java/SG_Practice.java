@@ -1,3 +1,4 @@
-public class SG_Practice {
+public class SG_Practice { System.out.println( "Java??>>")
+  
 
 }
